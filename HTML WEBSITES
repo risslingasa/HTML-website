@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+ 
+    <Style>
+
+h2:hover{
+    color:  #870922 ;
+    
+}
+
+h3:hover{
+
+            color: white !important;
+            color: red 
+       
+      
+        }       
+        strong:hover{
+            color: #33d7af ;
+        }
+        td:hover{
+            color: #33d7af ;    
+        }
+
+
+
+    </Style>
+
+
+    
+
+</head>
+<body>
+
+     
+<table width="100%"  height="60" border="0" cellspacing="5" cellpadding="5" bgcolor="#33d7af">
+ 
+
+    <tr>
+        <td align="left">
+            <table width="547"  border="0" align="center" cellspacing="1" cellpadding="1" >
+                <td width="200"> <font face="Verdana, Geneva , san-serif" color="black">
+                    <h2>RISSLEE</h2></font> </td> 
+                
+                <td width="120"> <font face="Verdana, Geneva , san-serif" color="black">
+                    <h3>Home</h3></font> </td> 
+                 <td width="150"> <font face="Verdana, Geneva , san-serif" color="black">
+                     <h3>About</h3></font> </td> 
+                <td width="150"> <font face="Verdana, Geneva , san-serif" color="black">
+                      <h3>Services</h3></font> </td> 
+             
+                <td width="150"> <font face="Verdana, Geneva , san-serif" color="black">
+                    <h3>Clients</h3></font> </td> 
+                <td width="120"> <font face="Verdana, Geneva , san-serif" color="black">
+                     <h3>Contact</h3></font> </td> 
+        
+            </table>
+
+          
+        </td>
+    </tr>
+</table>
+
+<table width="100%"  height="200" border="0" cellspacing="5" cellpadding="5" bgcolor="#FOFOFO">
+
+<tr>
+<td align="center">
+   <table width="708"  border="0" cellspacing="1" cellpadding="1" >
+      <tr>
+
+        <td width="338" align="left"> <font face="Verdana, Geneva , san-serif" color="black" size="5">
+            <strong>My business</strong></br>
+            Website</td></font>
+
+            <td width="338" align="right"> <font face="Verdana, Geneva , san-serif" color="black" size="5">
+                <strong>Call us Today!</strong>
+                <br>09565248456</td></font>
+
+        </td> 
+
+      </tr>
+    </table>
+</tr>
+</table>
+<table table width="100%"  height="200" border="0" cellspacing="5" cellpadding="5" bgcolor="white">
+    <tr>
+       <td align="center">
+
+        <table width="600"  border="0" cellspacing="1" cellpadding="1" >
+            <td align="center">  <img src="image.png" alt="image" width="1450 px" height="250px">
+
+            </td>
+
+        </table>
+
+        <table table width="72%"  border="0" cellspacing="5" cellpadding="5" bgcolor="white">
+            <tr>
+                 
+                
+                    <td width="726" align="center"> <font face="Verdana, Geneva , san-serif" color="black" size="6">
+                        This is my company Website <br> <strong>Dream.Plan.Create</strong>
+                    </font></td>
+
+
+                    </table>
+   <table table width="100% "  height="236" border="0" cellspacing="5" cellpadding="5" bgcolor="white">
+
+    <tr>
+            <td height="72" align="center" valign="top">
+                <table table width="10px"  border="0" cellspacing="3" cellpadding="3" bgcolor="#33d7af">
+                    
+            <tr>
+                <td width="100" align="center" nowrap="nowrap">
+                    <font face="Verdana, Geneva , san-serif" color="white" size="5"> <a href="#">Contact Us Today!</a><br/></font>
+
+                </td>
+            </tr>
+            </table>
+            </td>
+    </tr>
+    <tr>
+        <td height="72" align="center" valign="top">
+        <font face="Verdana, Geneva , san-serif" color="black" size="5"><strong>Register for our newspaper</strong>
+        
+            <form name="gmail" action="send.php" method="post"></form>
+            <input type="text" name="email" maxlength="50" />  
+            <input type="submit" name="submit" value="Submit" />
+      
+      
+        </td>
+    </tr>
+
+
+            </tr>
+            
+      
+
+       </td>    
+    </tr>
+
+</table>
+<table table width="100% "  height="100" border="0" cellspacing="5" cellpadding="5" bgcolor="white">
+<tr>
+    <td width="72" align="center" valign="top"></td>
+    <table width="900"   border="1" cellspacing="0" cellpadding="8" bgcolor="#CCCCCC">
+       
+        <td width="100">
+            <font face="Verdana, Geneva , san-serif" color="white" size="3"><Strong>ABOUT US</Strong><br/></font></td>
+
+            <td width="100">
+                <font face="Verdana, Geneva , san-serif" color="white" size="3"><Strong>OUR VISION</Strong><br/></font></td>
+                
+                <td width="100">
+                    <font face="Verdana, Geneva , san-serif" color="white" size="3"><Strong>SERVICES</Strong><br/></font></td>   
+                    
+        <tr>
+            <td>
+                <font face="Verdana, Geneva , san-serif" color="black" size="2">RissLee Company is dedicated to providing top-quality products/services in the industry/sector. Since 1999, we’ve focused on innovation, integrity, and customer satisfaction. Our experienced team works tirelessly to meet your needs, offering reliable solutions that drive success. We value trust and strong relationships with our clients and partners.</font></td>
+
+                   
+              <td valign="top">
+                <font face="Verdana, Geneva , san-serif" color="black" size="2">To be a global leader in RissLee Company, recognized for innovation, exceptional quality, and a commitment to sustainability. We strive to empower our customers and communities, building a future where  is accessible, reliable, and beneficial for everyone.</font></td>
+
+                <td valign="top">
+                    <font face="Verdana, Geneva , san-serif" color="black" size="2">
+                        <ul>
+                            <li>
+                                Strategy &amp; Organization </br>
+                            </li>
+                            <li>
+                                IT Management </br>
+                            </li>
+                            <li>
+                                Corporate Finance</br>
+                            </li>
+                            <li>
+                                Operations Management </br>
+                            </li>
+                            <li>
+                                Secure Services </br>
+                            </li>
+                            <li>
+                               Customer Services</br>
+                            </li>
+                            </li>
+                        </ul>
+                    </font>
+        </tr>
+
+
+ </table>
+</tr>
+
+</table>
+
+<table width="100%"  height="60" border="0" cellspacing="3" cellpadding="3" bgcolor="#33d7af">
+  
+    <tr>
+        <td align="center">
+            
+                <font face="Verdana, Geneva , san-serif" color="black">
+                    HOME-ABOUT-SERVICE-CLIENTS-CONTACT<br></br>
+
+        
+                    © My firt ever Website using HTML</font></td> 
+                    
+    </tr>
+
+</table>
+</body>
+</html>
